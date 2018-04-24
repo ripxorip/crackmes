@@ -9,7 +9,7 @@ The files are available under [releases](https://github.com/philip-karlsson/crac
 *Stupid simple* crackme intended for **absolute** beginners. Your task is to find the secret key and enter it in the **password** field.
 
 ## CrackMeOneB
-Slightly more challenging version of *CrackMeOne*.
+Slightly more challenging version of *CrackMeOne.exe*.
 
 ## CrackMeTwo
 *"A little bit harder"..* Just like in *CrackMeOne.exe* you shall find the secret **password** that unlocks the application.
